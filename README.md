@@ -12,9 +12,9 @@
 ---
 
 ## 🌱 Actualmente aprendiendo
-- **Frontend:** JavaScript, React.
+- **Frontend:** HTML, CSS,JavaScript, React.
 - **Backend:** Node.js, Express.
-- **Base de datos:** MongoDB y PostgreSQL.
+- **Base de datos:** MySQL, MongoDB, PostgreSQL.
 
 ---
 
