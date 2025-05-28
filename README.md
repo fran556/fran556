@@ -1,42 +1,48 @@
-# 👋 Hola, soy Francisco A. Guzmán Rocha
+# 👋 Hola, soy Francisco A. Guzmán Rocha / Hi, I'm Francisco A. Guzmán Rocha
 
-💻 Apasionado por el mundo de la programación y la tecnología.
-
----
-
-## 👀 Intereses
-- Desarrollo web (frontend y backend).
-- Inteligencia artificial.
-- Bases de datos y análisis de datos.
+💻 Apasionado por el mundo de la programación y la tecnología.  
+💻 Passionate about the world of programming and technology.
 
 ---
 
-## 🌱 Actualmente aprendiendo
-- **Frontend:** HTML, CSS,JavaScript, React.
-- **Backend:** Node.js, Express.
-- **Base de datos:** MySQL, MongoDB, PostgreSQL.
+## 👀 Intereses / Interests
+- Desarrollo web (frontend y backend).  
+- Web development (frontend and backend).  
+- Inteligencia artificial.  
+- Artificial intelligence.  
+- Bases de datos y análisis de datos.  
+- Databases and data analysis.  
 
 ---
 
-## 💞️ Busco colaborar en
-- Proyectos de código abierto relacionados con desarrollo web.
-- Aplicaciones móviles o herramientas de productividad.
+## 🌱 Actualmente aprendiendo / Currently Learning
+- **Frontend:** HTML, CSS, JavaScript, React.  
+- **Backend:** Node.js, Express.  
+- **Base de datos / Database:** MySQL, MongoDB, PostgreSQL.  
 
 ---
 
-## 📫 Cómo contactarme
-- **Email:** [fran556556@gmail.com](mailto:fran556556@gmail.com)
-- **LinkedIn:** [TuPerfil](https://www.linkedin.com/in/tu-perfil/)
+## 💞️ Busco colaborar en / Looking to Collaborate On
+- Proyectos de código abierto relacionados con desarrollo web.  
+- Open-source projects related to web development.  
+- Aplicaciones móviles o herramientas de productividad.  
+- Mobile applications or productivity tools.  
 
 ---
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=fran556&show_icons=true&theme=radical)
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=fran556&layout=compact&theme=radical)
+## 📫 Cómo contactarme / How to Reach Me
+- **Email:** [fran556556@gmail.com](mailto:fran556556@gmail.com)  
+- **LinkedIn:** [TuPerfil / YourProfile](https://www.linkedin.com/in/tu-perfil/)  
 
 ---
 
-🚀 **Siempre aprendiendo, siempre creciendo. ¡Conéctate conmigo y construyamos algo increíble juntos!**
+![Estadísticas de GitHub / GitHub Stats](https://github-readme-stats.vercel.app/api?username=fran556&show_icons=true&theme=radical)  
+![Lenguajes más utilizados / Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fran556&layout=compact&theme=radical)  
 
+---
+
+🚀 **Siempre aprendiendo, siempre creciendo. ¡Conéctate conmigo y construyamos algo increíble juntos!**  
+🚀 **Always learning, always growing. Connect with me and let's build something amazing together!**
 <!---
 fran556/fran556 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
